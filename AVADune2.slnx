@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVADune2/AVADune2.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVADune2.Tests/AVADune2.Tests.csproj" />
+  </Folder>
+</Solution>
